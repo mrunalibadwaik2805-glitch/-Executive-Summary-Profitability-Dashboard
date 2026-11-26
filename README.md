@@ -84,7 +84,8 @@ Users can dynamically filter dashboard insights by:
 
 ## 📷 Dashboard Preview
 
-![Executive Summary & Profitability Dashboard](Dashboard.png)
+![Executive Summary & Profitability Dashboard](<img width="1628" height="816" alt="Screenshot 2026-11-26 191525" src="https://github.com/user-attachments/assets/44de3f00-2fad-4cd8-8e77-8189529ce389" />
+)
 
 ## 🚀 Project Outcome
 
